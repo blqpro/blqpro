@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @blqpro
-- 👀 I’m interested in linux , programming , and script that make my life easier 
-- 🌱 I’m currently learning php , sql , html , css , c# im good in bash , linux system in general ans script for theses
+- 👀 I’m interested in linux , programming , and mostly in making script that make my life realy easier :)
+- 🌱 I’m currently learning php , sql , html , css , c# im good in bash , linux system in general ans script for them
+
 - 💻 Dev on macbook
 - 🖥️ Proxmox server 
 
